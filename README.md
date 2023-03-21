@@ -1,6 +1,6 @@
 # Visual_Cryptography_forKN_sharing
 
-•	Important Libraries necessary for running the code: \n
+•	Important Libraries necessary for running the code:
 o	Numpy
 o	Pillow
 o	Random
@@ -9,7 +9,7 @@ o	Tqdm
 o	Cryptodome
 o	Os
 o	Sys
-o	Base64 \n
+o	Base64
 Step1:
 o	Import the Necessay packages mentioned above along with the file/image/message that needs to be shared and its size is extracted and the depending on functions are initialized (Cell 1,2 and 3 of Jupyter notebook) 
 Step2:
